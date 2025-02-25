@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./profile_gif.gif"  />
+<img align="right" height="180" src="./profile_gif.gif"  />
 
 ###
 
